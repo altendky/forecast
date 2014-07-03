@@ -26,7 +26,8 @@ class Account:
         if self.interestRate != None:
             #lastEvent = None
             #periodEvents = []
-            
+            print(self.name)
+            print(self.events)
             firstDate = sorted(self.events, key=lambda e: e.date)[0].date
 
             nextPeriod = self.start

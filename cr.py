@@ -12,7 +12,6 @@ import matplotlib.pyplot as plt
 
 import csv
 import sys
-import odf
 import os
 
 class Scenario():
@@ -22,7 +21,8 @@ class Scenario():
         self.vars = {}
         while True:
             line = f.readline()
-            a = line.rstrip("\n,").split(",", 1)
+            noise = "\n, "
+            a = line.rstrip(noise).lstrip(noise).split(",", 1)
             print(a)
             key = a[0]
             value = a[1]
@@ -42,14 +42,11 @@ class Scenario():
 
         c = csv.DictReader(f)
         for l in c:
-            if len(l["Name"]) == 0 or l["Name"][0] == '#':
+            if len(l["Name"]) == 0 or l["Name"][0] == '#' or len(l["#"]) > 0:
                 continue
             print(l)
-            type = l["Type"]
-            creditAccountName = l["Credit"]
-            debitAccountName = l["Debit"]
-            creditAccount = self.accounts[creditAccountName] if len(creditAccountName) > 0 else None
-            debitAccount = self.accounts[debitAccountName] if len(debitAccountName) > 0 else None
+            creditAccount = self.accounts[l["Credit"]] if len(l["Credit"]) > 0 else None
+            debitAccount = self.accounts[l["Debit"]] if len(l["Debit"]) > 0 else None
             name = l["Name"]
             print(self.vars)
             start = datetime.datetime.strptime(l["Start"], self.vars["Format"]) if len(l["Start"]) > 0 else None
@@ -71,9 +68,9 @@ class Scenario():
             except ValueError:
                 pass
 
-            if type == "Annuity":
-                #print(creditAccountName)
-                #print(debitAccountName)
+            if l["Type"] == "Annuity":
+                #print(l["Credit"])
+                #print(l["Debit"])
                 
                 event = Annuity(name=name, start=start, end=end, amount=amount, period=period)
                 #print(name)
@@ -85,8 +82,7 @@ class Scenario():
                 #print(len(creditAccount.getevents()))
                 #for account in self.vars["Accounts"]:
                     #print self.accounts[account].events
-
-            if type == "Single":
+            elif l["Type"] == "Single":
                 event = Event(name=name, date=start, amount=amount)
                 try:
                     print(creditAccount.name)
@@ -96,15 +92,15 @@ class Scenario():
                     print(debitAccount.name)
                 except (AttributeError):
                     pass
-
-            if type == "Account":
+            elif l["Type"] == "Account":
                 account = self.accounts[name] if len(name) > 0 else None
                 account.interestRate = interestRate
                 account.period = period
                 account.start = start
                 account.end = end
                 continue
-                
+            else:
+                raise Exception('Unknown account type <{}>'.format(l["Type"]))
             print(" - - - - - - - - - - : ")
             print(event)
             event.addto(credit=creditAccount, debit=debitAccount)
@@ -123,6 +119,12 @@ class Scenario():
         fig = plt.figure()
         subplot = 0
         subplots = len(self.vars["Plot"])
+
+        #xlim_min = min([self.accounts[n].start for n in self.vars["Plot"] if self.accounts[n].start is not None])
+        #xlim_max = max([self.accounts[n].end   for n in self.vars["Plot"] if self.accounts[n].end   is not None])
+        start = datetime.datetime.strptime(self.vars["Start"], self.vars["Format"])
+        end = datetime.datetime.strptime(self.vars["End"], self.vars["Format"])
+
         for name in self.vars["Plot"]:
             subplot += 1
             
@@ -145,6 +147,7 @@ class Scenario():
 
 
             ax.step(d, t, where='post')
+            ax.set_xlim([start, end])
 
         plt.show()
 
