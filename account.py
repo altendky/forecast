@@ -36,12 +36,13 @@ class Account:
                     self.events.append(Event("Interest", nextPeriod, 0))
                 nextPeriod += self.period
 
-            events = sorted(self.events, key=lambda e: e.date)
+            events = sorted(self.events, key=lambda e: (e.date, e.name!="Interest"))
             i = 0
             balance = 0
             while i < len(events):
                 if events[i].name == "Interest":
                     events[i].amount = balance * self.interestRate/100
+                print(events[i].name + str(events[i].amount))
                 #print([self.interestRate, balance, events[i].amount], events[i].date)
                 balance += events[i].amount
                 i += 1

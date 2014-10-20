@@ -8,6 +8,8 @@ import datetime
 from dateutil.relativedelta import relativedelta
 from annuity import Annuity
 
+import collections
+
 import matplotlib.pyplot as plt
 
 import csv
@@ -19,6 +21,7 @@ class Scenario():
         f = open(csv_path)
         
         self.vars = {}
+        self.vars["Plot"] = {}
         while True:
             line = f.readline()
             noise = "\n, "
@@ -28,11 +31,23 @@ class Scenario():
             value = a[1]
             if key == "#":
                 break;
-            if len(key) > 0:
+            elif len(key) > 0:
                 value = value.split(",")
-                if len(value) == 1:
-                    value = value[0]
-                self.vars[key] = value
+                if key == "Plot":
+                    print("888 - " + str(self.vars))
+                    print("888 - " + str(self.vars["Plot"]))
+                    print("888 - " + str(value))
+                    print("888 - " + value[0])
+                    self.vars["Plot"][value[0]] = value[1]
+                    #print("888 - " + str(value))
+                    #try:
+                        #self.vars[key].append([value[0], value[1]])
+                    #except:
+                        #self.vars[key] = [value[0], value[1]]
+                else:
+                    if len(value) == 1:
+                        value = value[0]
+                    self.vars[key] = value
 
         #print(self.vars)
 
@@ -118,19 +133,31 @@ class Scenario():
     def plot(self):
         fig = plt.figure()
         subplot = 0
-        subplots = len(self.vars["Plot"])
+        requested_subplots = sorted(set(self.vars["Plot"].values()))
+        print("aaa " + str(requested_subplots))
+        subplots = len(requested_subplots)
+        print(requested_subplots)
+        print(list(range(1,subplots+1)))
+        subplot_indexes = dict(map(lambda *a:a,requested_subplots,list(range(1,subplots+1))))
+        print("bbb " + str(subplot_indexes))
 
         #xlim_min = min([self.accounts[n].start for n in self.vars["Plot"] if self.accounts[n].start is not None])
         #xlim_max = max([self.accounts[n].end   for n in self.vars["Plot"] if self.accounts[n].end   is not None])
         start = datetime.datetime.strptime(self.vars["Start"], self.vars["Format"])
         end = datetime.datetime.strptime(self.vars["End"], self.vars["Format"])
 
-        for name in self.vars["Plot"]:
-            subplot += 1
+        print("999 - " + str(self.vars["Plot"]))
+        od = collections.OrderedDict(sorted(self.vars["Plot"].items()))
+        for name, subplot in od.items():
+            #print(plot)
+            #name = plot[0]
+            #subplot = plot[1]
             
-            ax = fig.add_subplot(subplots, 1, subplot)
+            print("000 - subplots " + str(subplots))
+            print("000 - subplots " + str(subplot))
+            ax = fig.add_subplot(subplots, 1, subplot_indexes[subplot])
             #print("plotting " + name + " " + self.accounts[name].name + " " + str(len(self.accounts[name].getevents())))
-            plt.title(name)
+            #plt.title(name)
             v = []
             t = []
             d = []
@@ -146,7 +173,8 @@ class Scenario():
                 t.append(b)
 
 
-            ax.step(d, t, where='post')
+            ax.step(d, t, where='post', label=name)
+            ax.legend(shadow=True, loc = 'center left', bbox_to_anchor = (1.0, 0.5))
             ax.set_xlim([start, end])
 
         plt.show()
