@@ -1,0 +1,2545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+ <office:meta><meta:creation-date>2012-03-06T19:08:15</meta:creation-date><dc:date>2014-08-07T20:18:12.849584396</dc:date><meta:editing-duration>P42DT16H44M34S</meta:editing-duration><meta:editing-cycles>415</meta:editing-cycles><meta:generator>LibreOffice/4.2.4.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="308" meta:object-count="0"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">42276</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">26781</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
+     <config:config-item-map-named config:name="Tables">
+      <config:config-item-map-entry config:name="Main">
+       <config:config-item config:name="CursorPositionX" config:type="int">17</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">12</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">2</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">5</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
+     </config:config-item-map-named>
+     <config:config-item config:name="ActiveTable" config:type="string">Main</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">652</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+     <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+     <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+     <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
+     <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
+     <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+     <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+     <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">rQH+/0hQX0Rlc2tqZXRfRjQ0MDBfc2VyaWVzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpIUF9EZXNramV0X0Y0NDAwX3NlcmllcwAAAAAWAAMAzwAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9SFBfRGVza2pldF9GNDQwMF9zZXJpZXMKb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkxldHRlcgBJbnB1dFNsb3Q6QXV0bwAAEgBDT01QQVRfRFVQTEVYX01PREUOAERVUExFWF9VTktOT1dO</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">HP_Deskjet_F4400_series</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
+   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
+   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">US</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
+   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Droid Sans Fallback" svg:font-family="&apos;Droid Sans Fallback&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Lohit Hindi" svg:font-family="&apos;Lohit Hindi&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="table-cell">
+   <style:paragraph-properties style:tab-stop-distance="0.5in"/>
+   <style:text-properties style:font-name="Arial" fo:language="en" fo:country="US" style:font-name-asian="DejaVu Sans" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="DejaVu Sans" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <number:number-style style:name="N0">
+   <number:number number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:currency-style style:name="N104P0" style:volatile="true">
+   <number:currency-symbol number:language="en" number:country="US">$</number:currency-symbol>
+   <number:number number:decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+  </number:currency-style>
+  <number:currency-style style:name="N104">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>-</number:text>
+   <number:currency-symbol number:language="en" number:country="US">$</number:currency-symbol>
+   <number:number number:decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N104P0"/>
+  </number:currency-style>
+  <number:number-style style:name="N122P0" style:volatile="true">
+   <number:number number:decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text> </number:text>
+  </number:number-style>
+  <number:number-style style:name="N122">
+   <number:text>(</number:text>
+   <number:number number:decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text>)</number:text>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N122P0"/>
+  </number:number-style>
+  <number:number-style style:name="N124P0" style:volatile="true">
+   <number:number number:decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text> </number:text>
+  </number:number-style>
+  <number:number-style style:name="N124">
+   <number:text>(</number:text>
+   <number:number number:decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
+   <number:text>)</number:text>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N124P0"/>
+  </number:number-style>
+  <number:date-style style:name="N125">
+   <number:day-of-week number:calendar="jewish" number:style="long"/>
+   <number:text> </number:text>
+   <number:day number:calendar="jewish"/>
+   <number:text> </number:text>
+   <number:month number:calendar="jewish" number:style="long" number:textual="true"/>
+   <number:text> </number:text>
+   <number:year number:calendar="jewish" number:style="long"/>
+  </number:date-style>
+  <number:date-style style:name="N126">
+   <number:day-of-week number:calendar="jewish" number:style="long"/>
+   <number:text> </number:text>
+   <number:month number:calendar="jewish" number:style="long" number:textual="true"/>
+   <number:text> </number:text>
+   <number:day number:calendar="jewish"/>
+   <number:text> </number:text>
+   <number:year number:calendar="jewish" number:style="long"/>
+  </number:date-style>
+  <number:number-style style:name="N127">
+   <number:number number:decimal-places="9" number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:number-style style:name="N128">
+   <number:number number:decimal-places="8" number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:number-style style:name="N129">
+   <number:number number:decimal-places="7" number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:number-style style:name="N130">
+   <number:number number:decimal-places="6" number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:number-style style:name="N131">
+   <number:number number:decimal-places="5" number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:number-style style:name="N132">
+   <number:number number:decimal-places="4" number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:number-style style:name="N133">
+   <number:number number:decimal-places="3" number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:number-style style:name="N134">
+   <number:number number:decimal-places="1" number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:number-style style:name="N135">
+   <number:number number:decimal-places="11" number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:number-style style:name="N136">
+   <number:number number:decimal-places="10" number:min-integer-digits="1"/>
+  </number:number-style>
+  <style:style style:name="Default" style:family="table-cell">
+   <style:text-properties style:font-name-asian="Droid Sans Fallback" style:font-family-asian="&apos;Droid Sans Fallback&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-name-complex="Lohit Hindi" style:font-family-complex="&apos;Lohit Hindi&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable"/>
+  </style:style>
+  <style:style style:name="Result" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Result2" style:family="table-cell" style:parent-style-name="Result" style:data-style-name="N104"/>
+  <style:style style:name="Heading" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="16pt" fo:font-style="italic" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Heading1" style:family="table-cell" style:parent-style-name="Heading">
+   <style:table-cell-properties style:rotation-angle="90"/>
+  </style:style>
+  <style:style style:name="Untitled1" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:color="#999999"/>
+  </style:style>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="co1" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.198in"/>
+  </style:style>
+  <style:style style:name="co2" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.8402in"/>
+  </style:style>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.9189in"/>
+  </style:style>
+  <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.6346in"/>
+  </style:style>
+  <style:style style:name="co5" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.3626in"/>
+  </style:style>
+  <style:style style:name="co6" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.8425in"/>
+  </style:style>
+  <style:style style:name="co7" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.6244in"/>
+  </style:style>
+  <style:style style:name="co8" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.6134in"/>
+  </style:style>
+  <style:style style:name="co9" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.5909in"/>
+  </style:style>
+  <style:style style:name="co10" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.448in"/>
+  </style:style>
+  <style:style style:name="co11" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.8925in"/>
+  </style:style>
+  <style:style style:name="co12" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
+  </style:style>
+  <style:style style:name="ro1" style:family="table-row">
+   <style:table-row-properties style:row-height="0.1681in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro2" style:family="table-row">
+   <style:table-row-properties style:row-height="0.178in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro3" style:family="table-row">
+   <style:table-row-properties style:row-height="0.1756in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <number:number-style style:name="N1">
+   <number:number number:decimal-places="0" number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:number-style style:name="N2">
+   <number:number number:decimal-places="2" number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:percentage-style style:name="N11">
+   <number:number number:decimal-places="2" number:min-integer-digits="1"/>
+   <number:text>%</number:text>
+  </number:percentage-style>
+  <number:date-style style:name="N84">
+   <number:year number:style="long"/>
+   <number:text>-</number:text>
+   <number:month number:style="long"/>
+   <number:text>-</number:text>
+   <number:day number:style="long"/>
+  </number:date-style>
+  <number:currency-style style:name="N103P0" style:volatile="true">
+   <number:currency-symbol number:language="en" number:country="US">$</number:currency-symbol>
+   <number:number number:decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+  </number:currency-style>
+  <number:currency-style style:name="N103">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>-</number:text>
+   <number:currency-symbol number:language="en" number:country="US">$</number:currency-symbol>
+   <number:number number:decimal-places="0" number:min-integer-digits="1" number:grouping="true"/>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N103P0"/>
+  </number:currency-style>
+  <number:number-style style:name="N10000" number:language="en" number:country="US">
+   <number:number number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:date-style style:name="N10084" number:language="en" number:country="US">
+   <number:year number:style="long"/>
+   <number:text>-</number:text>
+   <number:month number:style="long"/>
+   <number:text>-</number:text>
+   <number:day number:style="long"/>
+  </number:date-style>
+  <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A13]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B13"/>
+  </style:style>
+  <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A14]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B14"/>
+  </style:style>
+  <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A15]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B15"/>
+  </style:style>
+  <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A16]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B16"/>
+  </style:style>
+  <style:style style:name="ce5" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A17]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B17"/>
+  </style:style>
+  <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B32"/>
+  </style:style>
+  <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B33"/>
+  </style:style>
+  <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B34"/>
+  </style:style>
+  <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B35"/>
+  </style:style>
+  <style:style style:name="ce10" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B36"/>
+  </style:style>
+  <style:style style:name="ce11" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B45"/>
+  </style:style>
+  <style:style style:name="ce12" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084"/>
+  <style:style style:name="ce13" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A48]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B48"/>
+  </style:style>
+  <style:style style:name="ce14" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B51"/>
+  </style:style>
+  <style:style style:name="ce15" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A53]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B53"/>
+  </style:style>
+  <style:style style:name="ce16" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B56"/>
+  </style:style>
+  <style:style style:name="ce17" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B32"/>
+  </style:style>
+  <style:style style:name="ce18" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N84"/>
+  <style:style style:name="ce19" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.C32"/>
+  </style:style>
+  <style:style style:name="ce20" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.C33"/>
+  </style:style>
+  <style:style style:name="ce21" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.C34"/>
+  </style:style>
+  <style:style style:name="ce22" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.C35"/>
+  </style:style>
+  <style:style style:name="ce23" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.C36"/>
+  </style:style>
+  <style:style style:name="ce24" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N11">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B32"/>
+  </style:style>
+  <style:style style:name="ce25" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A42]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.C42"/>
+  </style:style>
+  <style:style style:name="ce26" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.C45"/>
+  </style:style>
+  <style:style style:name="ce27" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.C51"/>
+  </style:style>
+  <style:style style:name="ce28" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.C56"/>
+  </style:style>
+  <style:style style:name="ce29" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT([.$A13]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B13"/>
+  </style:style>
+  <style:style style:name="ce30" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT([.$A14]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B14"/>
+  </style:style>
+  <style:style style:name="ce31" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT([.$A15]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B15"/>
+  </style:style>
+  <style:style style:name="ce32" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT([.$A16]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B16"/>
+  </style:style>
+  <style:style style:name="ce33" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT([.$A17]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B17"/>
+  </style:style>
+  <style:style style:name="ce34" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.D32"/>
+  </style:style>
+  <style:style style:name="ce35" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.D33"/>
+  </style:style>
+  <style:style style:name="ce36" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.D34"/>
+  </style:style>
+  <style:style style:name="ce37" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.D35"/>
+  </style:style>
+  <style:style style:name="ce38" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.D36"/>
+  </style:style>
+  <style:style style:name="ce39" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT([.$A42]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.C42"/>
+  </style:style>
+  <style:style style:name="ce40" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.D45"/>
+  </style:style>
+  <style:style style:name="ce41" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT([.$A48]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B48"/>
+  </style:style>
+  <style:style style:name="ce42" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.D51"/>
+  </style:style>
+  <style:style style:name="ce43" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT([.$A53]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B53"/>
+  </style:style>
+  <style:style style:name="ce44" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.D56"/>
+  </style:style>
+  <style:style style:name="ce45" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B32"/>
+  </style:style>
+  <style:style style:name="ce46" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10000"/>
+  <style:style style:name="ce47" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A54]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.G54"/>
+  </style:style>
+  <style:style style:name="ce48" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A13]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H13"/>
+  </style:style>
+  <style:style style:name="ce49" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A14]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H14"/>
+  </style:style>
+  <style:style style:name="ce50" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A15]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H15"/>
+  </style:style>
+  <style:style style:name="ce51" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A16]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H16"/>
+  </style:style>
+  <style:style style:name="ce52" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A17]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H17"/>
+  </style:style>
+  <style:style style:name="ce53" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A19]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H19"/>
+  </style:style>
+  <style:style style:name="ce54" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A20]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H20"/>
+  </style:style>
+  <style:style style:name="ce55" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A21]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H21"/>
+  </style:style>
+  <style:style style:name="ce56" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A22]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H22"/>
+  </style:style>
+  <style:style style:name="ce57" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A23]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H23"/>
+  </style:style>
+  <style:style style:name="ce58" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A25]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H25"/>
+  </style:style>
+  <style:style style:name="ce59" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A26]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H26"/>
+  </style:style>
+  <style:style style:name="ce60" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A27]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H27"/>
+  </style:style>
+  <style:style style:name="ce61" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A28]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H28"/>
+  </style:style>
+  <style:style style:name="ce62" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A29]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H29"/>
+  </style:style>
+  <style:style style:name="ce63" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.D32"/>
+  </style:style>
+  <style:style style:name="ce64" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H33"/>
+  </style:style>
+  <style:style style:name="ce65" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H34"/>
+  </style:style>
+  <style:style style:name="ce66" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H35"/>
+  </style:style>
+  <style:style style:name="ce67" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H36"/>
+  </style:style>
+  <style:style style:name="ce68" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B32"/>
+  </style:style>
+  <style:style style:name="ce69" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A42]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H42"/>
+  </style:style>
+  <style:style style:name="ce70" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A43]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H43"/>
+  </style:style>
+  <style:style style:name="ce71" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A44]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H44"/>
+  </style:style>
+  <style:style style:name="ce72" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H45"/>
+  </style:style>
+  <style:style style:name="ce73" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H46"/>
+  </style:style>
+  <style:style style:name="ce74" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A48]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H48"/>
+  </style:style>
+  <style:style style:name="ce75" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A49]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H49"/>
+  </style:style>
+  <style:style style:name="ce76" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A50]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H50"/>
+  </style:style>
+  <style:style style:name="ce77" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H51"/>
+  </style:style>
+  <style:style style:name="ce78" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A53]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H53"/>
+  </style:style>
+  <style:style style:name="ce79" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A54]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H54"/>
+  </style:style>
+  <style:style style:name="ce80" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT([.$A55]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H55"/>
+  </style:style>
+  <style:style style:name="ce81" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H56"/>
+  </style:style>
+  <style:style style:name="ce82" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.H61"/>
+  </style:style>
+  <style:style style:name="ce83" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.I13"/>
+  </style:style>
+  <style:style style:name="ce84" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.I14"/>
+  </style:style>
+  <style:style style:name="ce85" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.I15"/>
+  </style:style>
+  <style:style style:name="ce86" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.I16"/>
+  </style:style>
+  <style:style style:name="ce87" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.I17"/>
+  </style:style>
+  <style:style style:name="ce88" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.I33"/>
+  </style:style>
+  <style:style style:name="ce89" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.I34"/>
+  </style:style>
+  <style:style style:name="ce90" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.I35"/>
+  </style:style>
+  <style:style style:name="ce91" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.I36"/>
+  </style:style>
+  <style:style style:name="ce92" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.I42"/>
+  </style:style>
+  <style:style style:name="ce93" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.I45"/>
+  </style:style>
+  <style:style style:name="ce94" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.I48"/>
+  </style:style>
+  <style:style style:name="ce95" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.I51"/>
+  </style:style>
+  <style:style style:name="ce96" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.I53"/>
+  </style:style>
+  <style:style style:name="ce97" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N10084">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.I56"/>
+  </style:style>
+  <style:style style:name="ce98" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1"/>
+  <style:style style:name="ce99" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+   <style:map style:condition="is-true-formula(EXACT([.$A13]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.J13"/>
+  </style:style>
+  <style:style style:name="ce100" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+   <style:map style:condition="is-true-formula(EXACT([.$A14]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.J14"/>
+  </style:style>
+  <style:style style:name="ce101" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+   <style:map style:condition="is-true-formula(EXACT([.$A15]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.J15"/>
+  </style:style>
+  <style:style style:name="ce102" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+   <style:map style:condition="is-true-formula(EXACT([.$A16]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.J16"/>
+  </style:style>
+  <style:style style:name="ce103" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+   <style:map style:condition="is-true-formula(EXACT([.$A17]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.J17"/>
+  </style:style>
+  <style:style style:name="ce104" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.J32"/>
+  </style:style>
+  <style:style style:name="ce105" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.J33"/>
+  </style:style>
+  <style:style style:name="ce106" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.J34"/>
+  </style:style>
+  <style:style style:name="ce107" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.J35"/>
+  </style:style>
+  <style:style style:name="ce108" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.J36"/>
+  </style:style>
+  <style:style style:name="ce109" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+   <style:map style:condition="is-true-formula(EXACT([.$A42]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.J42"/>
+  </style:style>
+  <style:style style:name="ce110" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.J45"/>
+  </style:style>
+  <style:style style:name="ce111" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+   <style:map style:condition="is-true-formula(EXACT([.$A48]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.J48"/>
+  </style:style>
+  <style:style style:name="ce112" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.J51"/>
+  </style:style>
+  <style:style style:name="ce113" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+   <style:map style:condition="is-true-formula(EXACT([.$A53]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.J53"/>
+  </style:style>
+  <style:style style:name="ce114" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.J56"/>
+  </style:style>
+  <style:style style:name="ce115" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N132">
+   <style:map style:condition="is-true-formula(EXACT([.$A13]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.N13"/>
+  </style:style>
+  <style:style style:name="ce116" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N132">
+   <style:map style:condition="is-true-formula(EXACT([.$A14]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.N14"/>
+  </style:style>
+  <style:style style:name="ce117" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N132">
+   <style:map style:condition="is-true-formula(EXACT([.$A15]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.N15"/>
+  </style:style>
+  <style:style style:name="ce118" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N132">
+   <style:map style:condition="is-true-formula(EXACT([.$A16]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.N16"/>
+  </style:style>
+  <style:style style:name="ce119" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N132">
+   <style:map style:condition="is-true-formula(EXACT([.$A17]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.N17"/>
+  </style:style>
+  <style:style style:name="ce120" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N1">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.N32"/>
+  </style:style>
+  <style:style style:name="ce121" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N132">
+   <style:map style:condition="is-true-formula(EXACT([.$A42]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.N42"/>
+  </style:style>
+  <style:style style:name="ce122" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N132"/>
+  <style:style style:name="ce123" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N132">
+   <style:map style:condition="is-true-formula(EXACT([.$A48]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.N48"/>
+  </style:style>
+  <style:style style:name="ce124" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N132">
+   <style:map style:condition="is-true-formula(EXACT([.$A53]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.N53"/>
+  </style:style>
+  <style:style style:name="ce125" style:family="table-cell" style:parent-style-name="Default">
+   <style:map style:condition="is-true-formula(EXACT([.$A48]; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.O48"/>
+  </style:style>
+  <style:style style:name="ce126" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2"/>
+  <style:style style:name="ce127" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N11"/>
+  <style:style style:name="ce128" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.P32"/>
+  </style:style>
+  <style:style style:name="ce129" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B32"/>
+  </style:style>
+  <style:style style:name="ce130" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N2">
+   <style:table-cell-properties fo:background-color="#ffd320"/>
+  </style:style>
+  <style:style style:name="ce131" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ffd320"/>
+  </style:style>
+  <style:style style:name="ce132" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N103"/>
+  <style:style style:name="ce133" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N103">
+   <style:map style:condition="is-true-formula(EXACT(#REF!; &quot;d&quot;))" style:apply-style-name="Untitled1" style:base-cell-address="Main.B32"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.2957in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-bottom="0.0984in"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0.2957in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.0984in"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.2957in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-bottom="0.0984in" fo:border="2.49pt solid #000000" fo:padding="0.0071in" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0.2957in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.0984in" fo:border="2.49pt solid #000000" fo:padding="0.0071in" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:footer-style>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Default" style:page-layout-name="pm1">
+   <style:header>
+    <text:p><text:sheet-name>???</text:sheet-name></text:p>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+  <style:master-page style:name="Report" style:page-layout-name="pm2">
+   <style:header>
+    <style:region-left>
+     <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
+    </style:region-left>
+    <style:region-right>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2014-10-20">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="20:11:18.693886917">00:00:00</text:time></text:p>
+    </style:region-right>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number> / <text:page-count>99</text:page-count></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:spreadsheet>
+   <table:table table:name="Main" table:style-name="ta1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co5" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co6" table:number-columns-repeated="2" table:default-cell-style-name="ce12"/>
+    <table:table-column table:style-name="co7" table:default-cell-style-name="ce98"/>
+    <table:table-column table:style-name="co8" table:default-cell-style-name="ce98"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="ce98"/>
+    <table:table-column table:style-name="co10" table:default-cell-style-name="ce98"/>
+    <table:table-column table:style-name="co11" table:default-cell-style-name="ce98"/>
+    <table:table-column table:style-name="co12" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co12" table:number-columns-repeated="2" table:default-cell-style-name="ce126"/>
+    <table:table-column table:style-name="co12" table:number-columns-repeated="5" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Format</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>%Y-%m-%d</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="19"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Start</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="19"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>End</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2022-01-01" calcext:value-type="date">
+      <text:p>2022-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="19"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Accounts</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" office:value-type="string" calcext:value-type="string">
+      <text:p>A</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>B</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" office:value-type="string" calcext:value-type="string">
+      <text:p>D</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>a</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
+      <text:p>b</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>d</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>e</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>30 as 30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>30 as 15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>15 as 15</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Plot</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" office:value-type="string" calcext:value-type="string">
+      <text:p>A</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="13"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Plot</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>B</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="13"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Plot</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="13"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Plot</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>30 as 30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="13"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Plot</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>30 as 15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="13"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Plot</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>15 as 15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="3" calcext:value-type="float">
+      <text:p>3</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="13"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>#</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Accounts</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Dates</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Periods</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="12"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>#</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Name</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Scenarios</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Type</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Amount</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Credit</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Debit</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Start</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>End</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Years</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Months</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Weeks</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Days</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Interest Rate</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce130"/>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>A</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1"/>
+     <table:table-cell table:style-name="ce29" office:value-type="string" calcext:value-type="string">
+      <text:p>Account</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce48" table:formula="of:=EDATE([.H19];1)" office:value-type="date" office:date-value="2015-02-01" calcext:value-type="date">
+      <text:p>2015-02-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce83" table:formula="of:=[.$C$3]" office:value-type="date" office:date-value="2022-01-01" calcext:value-type="date">
+      <text:p>2022-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce99"/>
+     <table:table-cell table:style-name="ce99" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce99" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce115" table:formula="of:=[.O13]/12" office:value-type="float" office:value="0.28125" calcext:value-type="float">
+      <text:p>0.2813</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce29" office:value-type="float" office:value="3.375" calcext:value-type="float">
+      <text:p>3.375</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce127" office:value-type="percentage" office:value="0.0025" calcext:value-type="percentage">
+      <text:p>0.25%</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default" table:formula="of:=[.P13]*[.E19]" office:value-type="float" office:value="370" calcext:value-type="float">
+      <text:p>370</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>B</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2"/>
+     <table:table-cell table:style-name="ce30" office:value-type="string" calcext:value-type="string">
+      <text:p>Account</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce49" table:formula="of:=EDATE([.H20];1)" office:value-type="date" office:date-value="2015-02-01" calcext:value-type="date">
+      <text:p>2015-02-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce84" table:formula="of:=[.$C$3]" office:value-type="date" office:date-value="2022-01-01" calcext:value-type="date">
+      <text:p>2022-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce100"/>
+     <table:table-cell table:style-name="ce100" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce100" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce116" table:formula="of:=[.O14]/12" office:value-type="float" office:value="0.291666666666667" calcext:value-type="float">
+      <text:p>0.2917</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30" office:value-type="float" office:value="3.5" calcext:value-type="float">
+      <text:p>3.5</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce127" office:value-type="percentage" office:value="-0.00375" calcext:value-type="percentage">
+      <text:p>-0.38%</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default" table:formula="of:=[.P14]*[.E20]" office:value-type="float" office:value="-555" calcext:value-type="float">
+      <text:p>-555</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string">
+      <text:p>C</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce3"/>
+     <table:table-cell table:style-name="ce31" office:value-type="string" calcext:value-type="string">
+      <text:p>Account</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce31" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce50" table:formula="of:=EDATE([.H21];1)" office:value-type="date" office:date-value="2015-02-01" calcext:value-type="date">
+      <text:p>2015-02-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce85" table:formula="of:=[.$C$3]" office:value-type="date" office:date-value="2022-01-01" calcext:value-type="date">
+      <text:p>2022-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce101"/>
+     <table:table-cell table:style-name="ce101" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce101" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce117" table:formula="of:=[.O15]/12" office:value-type="float" office:value="0.302083333333333" calcext:value-type="float">
+      <text:p>0.3021</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce31" office:value-type="float" office:value="3.625" calcext:value-type="float">
+      <text:p>3.625</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce127" office:value-type="percentage" office:value="-0.01" calcext:value-type="percentage">
+      <text:p>-1.00%</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default" table:formula="of:=[.P15]*[.E21]" office:value-type="float" office:value="-1480" calcext:value-type="float">
+      <text:p>-1480</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>D</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce4"/>
+     <table:table-cell table:style-name="ce32" office:value-type="string" calcext:value-type="string">
+      <text:p>Account</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce32" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce51" table:formula="of:=EDATE([.H22];1)" office:value-type="date" office:date-value="2015-02-01" calcext:value-type="date">
+      <text:p>2015-02-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce86" table:formula="of:=[.$C$3]" office:value-type="date" office:date-value="2022-01-01" calcext:value-type="date">
+      <text:p>2022-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce102"/>
+     <table:table-cell table:style-name="ce102" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce102" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce118" table:formula="of:=[.O16]/12" office:value-type="float" office:value="0.354166666666667" calcext:value-type="float">
+      <text:p>0.3542</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce32" office:value-type="float" office:value="4.25" calcext:value-type="float">
+      <text:p>4.25</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce127" office:value-type="percentage" office:value="-0.00875" calcext:value-type="percentage">
+      <text:p>-0.88%</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default" table:formula="of:=[.P16]*[.E22]" office:value-type="float" office:value="-1295" calcext:value-type="float">
+      <text:p>-1295</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>E</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5"/>
+     <table:table-cell table:style-name="ce33" office:value-type="string" calcext:value-type="string">
+      <text:p>Account</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce33" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce52" table:formula="of:=EDATE([.H23];1)" office:value-type="date" office:date-value="2015-02-01" calcext:value-type="date">
+      <text:p>2015-02-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce87" table:formula="of:=[.$C$3]" office:value-type="date" office:date-value="2022-01-01" calcext:value-type="date">
+      <text:p>2022-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce103"/>
+     <table:table-cell table:style-name="ce103" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce103" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce119" table:formula="of:=[.O17]/12" office:value-type="float" office:value="0.364583333333333" calcext:value-type="float">
+      <text:p>0.3646</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce33" office:value-type="float" office:value="4.375" calcext:value-type="float">
+      <text:p>4.375</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce127" office:value-type="percentage" office:value="-0.015" calcext:value-type="percentage">
+      <text:p>-1.50%</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default" table:formula="of:=[.P17]*[.E23]" office:value-type="float" office:value="-2220" calcext:value-type="float">
+      <text:p>-2220</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="16"/>
+     <table:table-cell table:style-name="ce130"/>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Loan</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Single</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="148000" calcext:value-type="float">
+      <text:p>148000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce53" table:formula="of:=[.$C$2]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell table:style-name="ce130"/>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Loan</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Single</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="148000" calcext:value-type="float">
+      <text:p>148000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>B</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce54" table:formula="of:=[.$C$2]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell table:style-name="ce130"/>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Loan</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Single</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="148000" calcext:value-type="float">
+      <text:p>148000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce55" table:formula="of:=[.$C$2]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell table:style-name="ce130"/>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Loan</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Single</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="148000" calcext:value-type="float">
+      <text:p>148000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>D</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce56" table:formula="of:=[.$C$2]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell table:style-name="ce130"/>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Loan</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Single</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="148000" calcext:value-type="float">
+      <text:p>148000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>E</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce57" table:formula="of:=[.$C$2]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell table:style-name="ce130"/>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>#</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>All-in</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E19]+MAX([.Q13:.Q17])" office:value-type="float" office:value="148370" calcext:value-type="float">
+      <text:p>148370</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="13"/>
+     <table:table-cell table:style-name="ce130"/>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Points</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Single</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=MAX([.$Q$13:.$Q$17])-[.Q13]" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce58" table:formula="of:=[.$C$2]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell table:style-name="ce130"/>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Points</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Single</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=MAX([.$Q$13:.$Q$17])-[.Q14]" office:value-type="float" office:value="925" calcext:value-type="float">
+      <text:p>925</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>B</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce59" table:formula="of:=[.$C$2]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell table:style-name="ce130"/>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Points</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Single</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=MAX([.$Q$13:.$Q$17])-[.Q15]" office:value-type="float" office:value="1850" calcext:value-type="float">
+      <text:p>1850</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce60" table:formula="of:=[.$C$2]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell table:style-name="ce130"/>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Points</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Single</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=MAX([.$Q$13:.$Q$17])-[.Q16]" office:value-type="float" office:value="1665" calcext:value-type="float">
+      <text:p>1665</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>D</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce61" table:formula="of:=[.$C$2]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell table:style-name="ce130"/>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Points</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Single</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=MAX([.$Q$13:.$Q$17])-[.Q17]" office:value-type="float" office:value="2590" calcext:value-type="float">
+      <text:p>2590</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>E</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce62" table:formula="of:=[.$C$2]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell table:style-name="ce130"/>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="16"/>
+     <table:table-cell table:style-name="ce130"/>
+     <table:table-cell table:style-name="ce131"/>
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
+      <text:p>Payment</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce19" office:value-type="float" office:value="695.95" calcext:value-type="float">
+      <text:p>695.95</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce34" office:value-type="string" calcext:value-type="string">
+      <text:p>Annuity</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="750" calcext:value-type="float">
+      <text:p>750</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" office:value-type="string" calcext:value-type="string">
+      <text:p>A</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>a</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce63" table:formula="of:=EDATE([.H19];1)" office:value-type="date" office:date-value="2015-02-01" calcext:value-type="date">
+      <text:p>2015-02-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce63" table:formula="of:=[.$C$3]" office:value-type="date" office:date-value="2022-01-01" calcext:value-type="date">
+      <text:p>2022-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce104"/>
+     <table:table-cell table:style-name="ce104" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce104" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce120"/>
+     <table:table-cell table:style-name="ce6" table:formula="of:=IF(EXACT([.F32];&quot;General&quot;);1;IF(EXACT([.F32];&quot;General&quot;);-1;&quot;&quot;))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce128"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce132"/>
+     <table:table-cell table:style-name="ce133"/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Payment</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce20" office:value-type="float" office:value="706.57" calcext:value-type="float">
+      <text:p>706.57</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce35" office:value-type="string" calcext:value-type="string">
+      <text:p>Annuity</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="750" calcext:value-type="float">
+      <text:p>750</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" office:value-type="string" calcext:value-type="string">
+      <text:p>B</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>b</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce64" table:formula="of:=EDATE([.H20];1)" office:value-type="date" office:date-value="2015-02-01" calcext:value-type="date">
+      <text:p>2015-02-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce88" table:formula="of:=[.$C$3]" office:value-type="date" office:date-value="2022-01-01" calcext:value-type="date">
+      <text:p>2022-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce105"/>
+     <table:table-cell table:style-name="ce105" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce104" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce120"/>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce129"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+      <text:p>Payment</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce21" office:value-type="float" office:value="717.28" calcext:value-type="float">
+      <text:p>717.28</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce36" office:value-type="string" calcext:value-type="string">
+      <text:p>Annuity</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="750" calcext:value-type="float">
+      <text:p>750</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" office:value-type="string" calcext:value-type="string">
+      <text:p>C</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce65" table:formula="of:=EDATE([.H21];1)" office:value-type="date" office:date-value="2015-02-01" calcext:value-type="date">
+      <text:p>2015-02-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce89" table:formula="of:=[.$C$3]" office:value-type="date" office:date-value="2022-01-01" calcext:value-type="date">
+      <text:p>2022-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce106"/>
+     <table:table-cell table:style-name="ce106" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce104" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce120"/>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce129"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce9" office:value-type="string" calcext:value-type="string">
+      <text:p>Payment</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce22" office:value-type="float" office:value="728.07" calcext:value-type="float">
+      <text:p>728.07</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
+      <text:p>Annuity</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="750" calcext:value-type="float">
+      <text:p>750</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" office:value-type="string" calcext:value-type="string">
+      <text:p>D</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>d</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce66" table:formula="of:=EDATE([.H22];1)" office:value-type="date" office:date-value="2015-02-01" calcext:value-type="date">
+      <text:p>2015-02-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce90" table:formula="of:=[.$C$3]" office:value-type="date" office:date-value="2022-01-01" calcext:value-type="date">
+      <text:p>2022-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce107"/>
+     <table:table-cell table:style-name="ce107" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce104" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce120"/>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce129"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
+      <text:p>Payment</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" office:value-type="float" office:value="738.94" calcext:value-type="float">
+      <text:p>738.94</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce38" office:value-type="string" calcext:value-type="string">
+      <text:p>Annuity</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="750" calcext:value-type="float">
+      <text:p>750</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce12" office:value-type="string" calcext:value-type="string">
+      <text:p>E</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>e</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce67" table:formula="of:=EDATE([.H23];1)" office:value-type="date" office:date-value="2015-02-01" calcext:value-type="date">
+      <text:p>2015-02-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce91" table:formula="of:=[.$C$3]" office:value-type="date" office:date-value="2022-01-01" calcext:value-type="date">
+      <text:p>2022-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce108"/>
+     <table:table-cell table:style-name="ce108" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce104" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce120"/>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce129"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="6"/>
+     <table:table-cell table:style-name="ce68" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce104" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce120"/>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce129"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>#</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
+      <text:p>Purchase</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" office:value-type="string" calcext:value-type="string">
+      <text:p>Down</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce68" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce104" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce120"/>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce129"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>#</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" office:value-type="float" office:value="185000" calcext:value-type="float">
+      <text:p>185000</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce24" office:value-type="percentage" office:value="0.2" calcext:value-type="percentage">
+      <text:p>20.00%</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:formula="of:=[.B39]*[.C39]" office:value-type="float" office:value="37000" calcext:value-type="float">
+      <text:p>37000</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce68" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce104" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce120"/>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce129"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="6"/>
+     <table:table-cell table:style-name="ce68" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce104" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce120"/>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce129"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>30 as 30</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce39" office:value-type="string" calcext:value-type="string">
+      <text:p>Account</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce69" table:formula="of:=[.$C$2]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce92" table:formula="of:=[.$C$3]" office:value-type="date" office:date-value="2022-01-01" calcext:value-type="date">
+      <text:p>2022-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce109"/>
+     <table:table-cell table:style-name="ce109" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce109" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce121" table:formula="of:=[.O42]/12" office:value-type="float" office:value="0.375" calcext:value-type="float">
+      <text:p>0.3750</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce39" office:value-type="float" office:value="4.5" calcext:value-type="float">
+      <text:p>4.5</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce127" office:value-type="percentage" office:value="-0.01625" calcext:value-type="percentage">
+      <text:p>-1.63%</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default" table:formula="of:=[.P42]*[.E43]" office:value-type="float" office:value="-2405" calcext:value-type="float">
+      <text:p>-2405</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Loan</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Single</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="148000" calcext:value-type="float">
+      <text:p>148000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>30 as 30</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce70" table:formula="of:=[.H42]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce122"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce127"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Credit</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Single</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.Q53]-[.Q42]" office:value-type="float" office:value="925" calcext:value-type="float">
+      <text:p>925</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>30 as 30</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce71" table:formula="of:=[.H43]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce122"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce127"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce11" office:value-type="string" calcext:value-type="string">
+      <text:p>Payment</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce26" office:value-type="float" office:value="50.23" calcext:value-type="float">
+      <text:p>50.23</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce40" office:value-type="string" calcext:value-type="string">
+      <text:p>Annuity</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C45]*[.E43]/10000" office:value-type="float" office:value="743.404" calcext:value-type="float">
+      <text:p>743.404</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>30 as 30</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce72" table:formula="of:=EDATE([.H43];1)" office:value-type="date" office:date-value="2015-02-01" calcext:value-type="date">
+      <text:p>2015-02-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce93" table:formula="of:=[.$C$3]" office:value-type="date" office:date-value="2022-01-01" calcext:value-type="date">
+      <text:p>2022-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce110"/>
+     <table:table-cell table:style-name="ce110" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce122"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce127"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Equalizer</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Single</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce46" table:formula="of:=([.E51]-[.E45])*ORG.OPENOFFICE.MONTHS([.H43];[.I45]; )" office:value-type="float" office:value="26965.008" calcext:value-type="float">
+      <text:p>26965.008</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>30 as 30</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce73" table:formula="of:=EDATE([.I45];-1)" office:value-type="date" office:date-value="2021-12-01" calcext:value-type="date">
+      <text:p>2021-12-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.I45]" office:value-type="date" office:date-value="2022-01-01" calcext:value-type="date">
+      <text:p>2022-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce122"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce127"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce12" table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="10"/>
+     <table:table-cell table:style-name="ce122"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce127"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce13" office:value-type="string" calcext:value-type="string">
+      <text:p>30 as 15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce13"/>
+     <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
+      <text:p>Account</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce41" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce74" table:formula="of:=[.H42]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce94" table:formula="of:=[.I42]" office:value-type="date" office:date-value="2022-01-01" calcext:value-type="date">
+      <text:p>2022-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce111"/>
+     <table:table-cell table:style-name="ce111" table:formula="of:=[.K42]" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce111" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce123" table:formula="of:=[.N42]" office:value-type="float" office:value="0.375" calcext:value-type="float">
+      <text:p>0.3750</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce125" table:formula="of:=[.O42]" office:value-type="float" office:value="4.5" calcext:value-type="float">
+      <text:p>4.5</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce127" table:formula="of:=[.P42]" office:value-type="percentage" office:value="-0.01625" calcext:value-type="percentage">
+      <text:p>-1.63%</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default" table:formula="of:=[.P48]*[.E49]" office:value-type="float" office:value="-2405" calcext:value-type="float">
+      <text:p>-2405</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Loan</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Single</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="148000" calcext:value-type="float">
+      <text:p>148000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>30 as 15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce75" table:formula="of:=[.H48]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce122"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce127"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Credit</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Single</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E44]" office:value-type="float" office:value="925" calcext:value-type="float">
+      <text:p>925</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>30 as 15</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce76" table:formula="of:=[.H49]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce122"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce127"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce14" table:formula="of:=[.B45]" office:value-type="string" office:string-value="Payment" calcext:value-type="string">
+      <text:p>Payment</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce27" table:formula="of:=[.C45]" office:value-type="float" office:value="50.23" calcext:value-type="float">
+      <text:p>50.23</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce42" table:formula="of:=[.D45]" office:value-type="string" office:string-value="Annuity" calcext:value-type="string">
+      <text:p>Annuity</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.E56]" office:value-type="float" office:value="1064.416" calcext:value-type="float">
+      <text:p>1064.416</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>30 as 15</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce77" table:formula="of:=[.H45]" office:value-type="date" office:date-value="2015-02-01" calcext:value-type="date">
+      <text:p>2015-02-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce95" table:formula="of:=[.I45]" office:value-type="date" office:date-value="2022-01-01" calcext:value-type="date">
+      <text:p>2022-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce112"/>
+     <table:table-cell table:style-name="ce112" table:formula="of:=[.K45]" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce122"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce127"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce12" table:number-columns-repeated="2"/>
+     <table:table-cell table:number-columns-repeated="10"/>
+     <table:table-cell table:style-name="ce122"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce127"/>
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce15" office:value-type="string" calcext:value-type="string">
+      <text:p>15 as 15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce15"/>
+     <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
+      <text:p>Account</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce43" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce78" table:formula="of:=[.$C$2]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce96" table:formula="of:=[.$C$3]" office:value-type="date" office:date-value="2022-01-01" calcext:value-type="date">
+      <text:p>2022-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce113"/>
+     <table:table-cell table:style-name="ce113" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce113" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce124" table:formula="of:=[.O53]/12" office:value-type="float" office:value="0.302083333333333" calcext:value-type="float">
+      <text:p>0.3021</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce43" office:value-type="float" office:value="3.625" calcext:value-type="float">
+      <text:p>3.625</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce127" office:value-type="percentage" office:value="-0.01" calcext:value-type="percentage">
+      <text:p>-1.00%</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Default" table:formula="of:=[.P53]*[.E54]" office:value-type="float" office:value="-1480" calcext:value-type="float">
+      <text:p>-1480</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Loan</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Single</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="148000" calcext:value-type="float">
+      <text:p>148000</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce47" office:value-type="string" calcext:value-type="string">
+      <text:p>15 as 15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce79" table:formula="of:=[.H53]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce68"/>
+     <table:table-cell table:style-name="ce104" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce120"/>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce129"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>d</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Credit</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Single</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=-[.Q53]" office:value-type="float" office:value="1480" calcext:value-type="float">
+      <text:p>1480</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>15 as 15</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce80" table:formula="of:=[.H54]" office:value-type="date" office:date-value="2015-01-01" calcext:value-type="date">
+      <text:p>2015-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce104" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce120"/>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce129"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce16" table:formula="of:=[.B51]" office:value-type="string" office:string-value="Payment" calcext:value-type="string">
+      <text:p>Payment</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce28" office:value-type="float" office:value="71.92" calcext:value-type="float">
+      <text:p>71.92</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce44" table:formula="of:=[.D51]" office:value-type="string" office:string-value="Annuity" calcext:value-type="string">
+      <text:p>Annuity</text:p>
+     </table:table-cell>
+     <table:table-cell table:formula="of:=[.C56]*[.E54]/10000" office:value-type="float" office:value="1064.416" calcext:value-type="float">
+      <text:p>1064.416</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>15 as 15</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce81" table:formula="of:=[.H51]" office:value-type="date" office:date-value="2015-02-01" calcext:value-type="date">
+      <text:p>2015-02-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce97" table:formula="of:=[.I51]" office:value-type="date" office:date-value="2022-01-01" calcext:value-type="date">
+      <text:p>2022-01-01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce114"/>
+     <table:table-cell table:style-name="ce114" table:formula="of:=[.K51]" office:value-type="float" office:value="1" calcext:value-type="float">
+      <text:p>1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce104" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce120"/>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce129"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce17" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce68" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce104" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce120"/>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce129"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>#</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce17"/>
+     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="99600" calcext:value-type="float">
+      <text:p>99600</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce45" office:value-type="float" office:value="101700" calcext:value-type="float">
+      <text:p>101700</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce68" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce104" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce120"/>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce129"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>#</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce17"/>
+     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="95400" calcext:value-type="float">
+      <text:p>95400</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce45" office:value-type="float" office:value="97300" calcext:value-type="float">
+      <text:p>97300</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce68" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce104" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce120"/>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce129"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>#</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce17"/>
+     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="88200" calcext:value-type="float">
+      <text:p>88200</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce45" table:formula="of:=[.C60]-[.C61]" office:value-type="float" office:value="7200" calcext:value-type="float">
+      <text:p>7200</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce45" table:formula="of:=[.C59]-[.C61]" office:value-type="float" office:value="11400" calcext:value-type="float">
+      <text:p>11400</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce45" office:value-type="float" office:value="90100" calcext:value-type="float">
+      <text:p>90100</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce82" table:formula="of:=[.G60]-[.G61]" office:value-type="float" office:value="7200" calcext:value-type="float">
+      <text:p>7200</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce82" table:formula="of:=[.G59]-[.G61]" office:value-type="float" office:value="11600" calcext:value-type="float">
+      <text:p>11600</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce104" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce120"/>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce129"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="8">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce17" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce45" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce68" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce104" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce120"/>
+     <table:table-cell table:style-name="ce45"/>
+     <table:table-cell table:style-name="ce129"/>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce6" table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="1048329">
+     <table:table-cell table:number-columns-repeated="22"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2" table:number-rows-repeated="177">
+     <table:table-cell table:number-columns-repeated="22"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:number-columns-repeated="22"/>
+    </table:table-row>
+    <calcext:conditional-formats>
+     <calcext:conditional-format calcext:target-range-address="Main.B57:Main.G69 Main.S32:Main.V32 Main.R33:Main.V69 Main.H62:Main.I69 Main.O54:Main.P69 Main.B57:Main.C69 Main.B57:Main.G69 Main.B32:Main.B32 Main.O54:Main.O69 Main.B37:Main.I41 Main.O33:Main.P41 Main.O32:Main.O41 Main.I54:Main.I54 Main.H57:Main.I60">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.B32"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.P32:Main.P32">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.P32"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.N54:Main.N69 Main.N32:Main.N41">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.N32"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.L54:Main.M69 Main.J32:Main.K32 Main.J57:Main.K69 Main.L32:Main.M41 Main.J37:Main.K41 Main.J54:Main.K54">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.J32"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.P32:Main.P32">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.P32"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H32:Main.I32 Main.D32:Main.D32">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.D32"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.B13:Main.G13 Main.O13:Main.O13">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A13]; &quot;d&quot;))" calcext:base-cell-address="Main.B13"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.N13:Main.N13">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A13]; &quot;d&quot;))" calcext:base-cell-address="Main.N13"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.J13:Main.M13">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A13]; &quot;d&quot;))" calcext:base-cell-address="Main.J13"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.B14:Main.G14 Main.O14:Main.O14">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A14]; &quot;d&quot;))" calcext:base-cell-address="Main.B14"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.N14:Main.N14">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A14]; &quot;d&quot;))" calcext:base-cell-address="Main.N14"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.J14:Main.M14">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A14]; &quot;d&quot;))" calcext:base-cell-address="Main.J14"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.B15:Main.G15 Main.O15:Main.O15">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A15]; &quot;d&quot;))" calcext:base-cell-address="Main.B15"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.N15:Main.N15">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A15]; &quot;d&quot;))" calcext:base-cell-address="Main.N15"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.J15:Main.M15">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A15]; &quot;d&quot;))" calcext:base-cell-address="Main.J15"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.J33:Main.K33">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.J33"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.D33:Main.D33">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.D33"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.J34:Main.K34">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.J34"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.D34:Main.D34">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.D34"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.I33:Main.I33">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.I33"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.I34:Main.I34">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.I34"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.B33:Main.B33">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.B33"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.B34:Main.B34">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.B34"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H25:Main.H25">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A25]; &quot;d&quot;))" calcext:base-cell-address="Main.H25"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H26:Main.H26">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A26]; &quot;d&quot;))" calcext:base-cell-address="Main.H26"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.I13:Main.I13">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.I13"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.I14:Main.I14">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.I14"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.I15:Main.I15">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.I15"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.B16:Main.G16 Main.O16:Main.O16">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A16]; &quot;d&quot;))" calcext:base-cell-address="Main.B16"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.N16:Main.N16">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A16]; &quot;d&quot;))" calcext:base-cell-address="Main.N16"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.J16:Main.M16">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A16]; &quot;d&quot;))" calcext:base-cell-address="Main.J16"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.I16:Main.I16">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.I16"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.B17:Main.G17 Main.O17:Main.O17">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A17]; &quot;d&quot;))" calcext:base-cell-address="Main.B17"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.N17:Main.N17">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A17]; &quot;d&quot;))" calcext:base-cell-address="Main.N17"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.J17:Main.M17">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A17]; &quot;d&quot;))" calcext:base-cell-address="Main.J17"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.I17:Main.I17">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.I17"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H27:Main.H27">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A27]; &quot;d&quot;))" calcext:base-cell-address="Main.H27"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H28:Main.H28">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A28]; &quot;d&quot;))" calcext:base-cell-address="Main.H28"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H29:Main.H29">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A29]; &quot;d&quot;))" calcext:base-cell-address="Main.H29"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.J35:Main.K35">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.J35"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.D35:Main.D35">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.D35"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.I35:Main.I35">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.I35"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.B35:Main.B35">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.B35"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.J36:Main.K36">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.J36"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.D36:Main.D36">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.D36"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.I36:Main.I36">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.I36"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.B36:Main.B36">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.B36"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H19:Main.H19">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A19]; &quot;d&quot;))" calcext:base-cell-address="Main.H19"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H20:Main.H20">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A20]; &quot;d&quot;))" calcext:base-cell-address="Main.H20"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H21:Main.H21">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A21]; &quot;d&quot;))" calcext:base-cell-address="Main.H21"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H22:Main.H22">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A22]; &quot;d&quot;))" calcext:base-cell-address="Main.H22"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H23:Main.H23">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A23]; &quot;d&quot;))" calcext:base-cell-address="Main.H23"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H13:Main.H13">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A13]; &quot;d&quot;))" calcext:base-cell-address="Main.H13"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.C32:Main.C32">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.C32"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.C33:Main.C33">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.C33"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.C34:Main.C34">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.C34"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.C35:Main.C35">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.C35"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.C36:Main.C36">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.C36"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H14:Main.H14">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A14]; &quot;d&quot;))" calcext:base-cell-address="Main.H14"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H15:Main.H15">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A15]; &quot;d&quot;))" calcext:base-cell-address="Main.H15"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H16:Main.H16">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A16]; &quot;d&quot;))" calcext:base-cell-address="Main.H16"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H17:Main.H17">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A17]; &quot;d&quot;))" calcext:base-cell-address="Main.H17"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H33:Main.H33">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.H33"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H34:Main.H34">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.H34"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H35:Main.H35">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.H35"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H36:Main.H36">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.H36"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.C42:Main.G42 Main.O42:Main.O42">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A42]; &quot;d&quot;))" calcext:base-cell-address="Main.C42"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.N42:Main.N42">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A42]; &quot;d&quot;))" calcext:base-cell-address="Main.N42"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.J42:Main.M42">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A42]; &quot;d&quot;))" calcext:base-cell-address="Main.J42"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.B48:Main.G48">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A48]; &quot;d&quot;))" calcext:base-cell-address="Main.B48"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.B53:Main.G53 Main.O53:Main.O53">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A53]; &quot;d&quot;))" calcext:base-cell-address="Main.B53"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.N53:Main.N53">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A53]; &quot;d&quot;))" calcext:base-cell-address="Main.N53"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.J53:Main.M53">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A53]; &quot;d&quot;))" calcext:base-cell-address="Main.J53"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.I42:Main.I42">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.I42"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.I53:Main.I53">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.I53"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H42:Main.H42">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A42]; &quot;d&quot;))" calcext:base-cell-address="Main.H42"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H43:Main.H43">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A43]; &quot;d&quot;))" calcext:base-cell-address="Main.H43"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H49:Main.H49">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A49]; &quot;d&quot;))" calcext:base-cell-address="Main.H49"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H54:Main.H54">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A54]; &quot;d&quot;))" calcext:base-cell-address="Main.H54"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H53:Main.H53">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A53]; &quot;d&quot;))" calcext:base-cell-address="Main.H53"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.O48:Main.O48">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A48]; &quot;d&quot;))" calcext:base-cell-address="Main.O48"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.N48:Main.N48">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A48]; &quot;d&quot;))" calcext:base-cell-address="Main.N48"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.J48:Main.M48">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A48]; &quot;d&quot;))" calcext:base-cell-address="Main.J48"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.I48:Main.I48">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.I48"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H48:Main.H48">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A48]; &quot;d&quot;))" calcext:base-cell-address="Main.H48"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.G54:Main.G54">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A54]; &quot;d&quot;))" calcext:base-cell-address="Main.G54"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.J45:Main.K45">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.J45"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.D45:Main.D45">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.D45"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.I45:Main.I45">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.I45"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.B45:Main.B45">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.B45"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.C45:Main.C45">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.C45"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H45:Main.H45">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.H45"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.J51:Main.K51">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.J51"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.D51:Main.D51">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.D51"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.I51:Main.I51">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.I51"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.B51:Main.B51">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.B51"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.C51:Main.C51">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.C51"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H51:Main.H51">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.H51"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.J56:Main.K56">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.J56"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.D56:Main.D56">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.D56"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.I56:Main.I56">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.I56"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.B56:Main.B56">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.B56"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.C56:Main.C56">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.C56"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H56:Main.H56">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.H56"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H46:Main.H46">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.H46"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H44:Main.H44">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A44]; &quot;d&quot;))" calcext:base-cell-address="Main.H44"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H50:Main.H50">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A50]; &quot;d&quot;))" calcext:base-cell-address="Main.H50"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H55:Main.H55">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT([.$A55]; &quot;d&quot;))" calcext:base-cell-address="Main.H55"/>
+     </calcext:conditional-format>
+     <calcext:conditional-format calcext:target-range-address="Main.H61:Main.I61">
+      <calcext:condition calcext:apply-style-name="Untitled1" calcext:value="formula-is(EXACT(#REF!; &quot;d&quot;))" calcext:base-cell-address="Main.H61"/>
+     </calcext:conditional-format>
+    </calcext:conditional-formats>
+   </table:table>
+   <table:named-expressions/>
+   <table:database-ranges>
+    <table:database-range table:name="__Anonymous_Sheet_DB__0" table:target-range-address="Main.D32:Main.I32" table:contains-header="false" table:orientation="column"/>
+   </table:database-ranges>
+  </office:spreadsheet>
+ </office:body>
+</office:document>
