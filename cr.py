@@ -15,6 +15,9 @@ import matplotlib.pyplot as plt
 import csv
 import sys
 import os
+import argparse
+import subprocess
+import tempfile
 
 class Scenario():
     def __init__(self, csv_path=None):
@@ -181,9 +184,37 @@ class Scenario():
         plt.show()
 
 def main():
-    s = Scenario('budget.csv')
-    s.plot()
-    #general = Account(name="General")
+    parser = argparse.ArgumentParser(description='Plot your financial forecast.')
+    parser.add_argument('--csv', '-c', type=str, help='CSV source')
+    parser.add_argument('--ods', '-o', type=str, help='ODS source (binary or flat)')
+    args = parser.parse_args()
+    
+    if args.ods is None and args.csv is None:
+        print('Either a CSV or ODS source file must be specified.')
+        return 1
+    elif args.ods is not None and args.csv is not None:
+        print('Unable to handle both CSV and ODS source files simultaneously.')
+        return 1
+    else:
+        if args.ods is not None:
+            csv_file = tempfile.NamedTemporaryFile()
+            csv = csv_file.name
+            cmd = ['unoconv',
+                   '--server=127.0.0.1',
+                   '--doctype=spreadsheet',
+                   '--format=csv',
+                   '--output=' + csv,
+                    args.ods]
+            try:
+                subprocess.call(cmd)
+            except FileNotFoundError as e:
+                print('Unable to find {}.  It is a required supporting program.'.format(cmd[0]))
+                return 1
+        else:
+            csv = args.csv
+
+        s = Scenario(csv)
+        s.plot()
 
 
 if __name__ == '__main__':
